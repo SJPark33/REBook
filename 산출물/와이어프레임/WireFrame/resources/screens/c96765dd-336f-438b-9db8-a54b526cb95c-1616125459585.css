@@ -1,0 +1,99 @@
+#s-c96765dd-336f-438b-9db8-a54b526cb95c > #backgroundBox {
+  position: absolute;
+}
+
+#s-c96765dd-336f-438b-9db8-a54b526cb95c > #alignmentBox {
+  position: relative;
+}
+
+#s-c96765dd-336f-438b-9db8-a54b526cb95c #s-Image_3 {
+  position: absolute;
+  width: 1920.0000006389394px;
+  height: 1163.000000000001px;
+  opacity: 0.26;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+
+_:-ms-fullscreen, :root #s-c96765dd-336f-438b-9db8-a54b526cb95c #s-Image_3 {
+  box-shadow: none;
+}
+
+#s-c96765dd-336f-438b-9db8-a54b526cb95c #s-Image_5 {
+  position: absolute;
+  width: 35.91474245115478px;
+  height: 36.43243243243245px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  cursor: pointer;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+
+_:-ms-fullscreen, :root #s-c96765dd-336f-438b-9db8-a54b526cb95c #s-Image_5 {
+  box-shadow: none;
+}
+
+#s-c96765dd-336f-438b-9db8-a54b526cb95c #s-Image_1 {
+  position: absolute;
+  width: 1420.6279569892477px;
+  height: 917.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+
+_:-ms-fullscreen, :root #s-c96765dd-336f-438b-9db8-a54b526cb95c #s-Image_1 {
+  box-shadow: none;
+}
+
+#s-c96765dd-336f-438b-9db8-a54b526cb95c #s-Image_2 {
+  position: absolute;
+  width: 496.04px;
+  height: 669.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+
+_:-ms-fullscreen, :root #s-c96765dd-336f-438b-9db8-a54b526cb95c #s-Image_2 {
+  box-shadow: none;
+}
+
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+
+.web #simulation {
+  overflow-x: hidden;
+}
+
+#s-c96765dd-336f-438b-9db8-a54b526cb95c > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
